@@ -1,0 +1,22 @@
+h2 {
+    text-align: center; 
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+img {
+    height: 50px;
+    width: 50px;
+}
+
+th {
+    background-color: aquamarine;
+}
+tr:nth-child(even) {
+    background-color: #d7ebcd;
+}
+a:hover {
+    background-color: brown;
+}
